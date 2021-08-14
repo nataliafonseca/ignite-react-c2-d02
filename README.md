@@ -2,7 +2,7 @@
 
 _( Ignite | ReactJS | Capítulo II | Desafio 02 )_
 
-Desafio 02 do capítulo II da trilha ReactJS do Ignite, da rocketseat.
+Desafio 02 do capítulo II da trilha ReactJS do bootcamp Ignite, da Rocketseat.
 
 ## O desafio: Refatorar Aplicação
 
